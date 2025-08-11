@@ -1,3 +1,3 @@
 def AGI():
-    pass
+    print("I am pretty smart for a computer")
 
