@@ -1,3 +1,4 @@
 def AGI():
-    pass
+    print("I am a superintelligent artificial intelligence!!!!")
+
 
